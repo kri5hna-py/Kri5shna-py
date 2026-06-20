@@ -1,2 +1,2 @@
-# Kri5shna-py
+# Kri5shna-py-Demo
 This is my first Git Repository
